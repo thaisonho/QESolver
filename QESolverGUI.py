@@ -5,7 +5,7 @@ import unicodedata as un
 from pathlib import Path
 
 
-# Set path and put path as a variable to access files for the program
+# Set path and put path as a variable to access files for the script
 # Get the parrent folder of this Python script
 # Ex: C:/SomeFold3r/QES_GUI
 getParrentFolder = Path(__file__).parent
