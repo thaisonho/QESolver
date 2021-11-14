@@ -8,7 +8,7 @@ It doesn't do anything much, but yeah it solves your quadratic equation, if you 
 
 To clone this repo to your machine, use this:
 
-``git clone ``
+``git clone https://github.com/thaisonho/QESolver.git ``
 
 To run the script
 
