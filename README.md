@@ -10,7 +10,7 @@ To clone this repo to your machine, use this:
 
 ``git clone https://github.com/thaisonho/QESolver.git ``
 
-To run the script
+To run the script:
 
 ``python3 QESolverGUI.py``
 
