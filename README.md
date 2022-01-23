@@ -8,11 +8,19 @@ It doesn't do anything much, but yeah it solves your quadratic equation, if you 
 
 To clone this repo to your machine, use this:
 
-``git clone https://github.com/thaisonho/QESolver.git ``
+```bash
+
+git clone https://github.com/thaisonho/QESolver.git
+
+```
 
 To run the script:
 
-``python3 QESolverGUI.py``
+```bash
+
+python3 QESolverGUI.py
+
+```  
 
 You don't have to install any extra lib to run this script.
 
