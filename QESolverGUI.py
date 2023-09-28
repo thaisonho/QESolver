@@ -4,6 +4,7 @@ from tkinter import messagebox as ms
 import unicodedata as un
 from pathlib import Path
 
+# I graduated from high school 💀
 
 # Set path and put path as a variable to access files for the script
 # Get the parrent folder of this Python script
